@@ -30,7 +30,7 @@ Proyecto final de Business Analytics orientado a retail: análisis exploratorio,
 ## Contenido del repo
 - `notebooks/`: notebook reproducible del análisis.
 - `docs/`: presentación final (deck) + graficos en Power BI.
-- `src/`: scripts para separar preparación de datos, features y entrenamiento.
+- `src/`: CSVs en formato original para la preparación de datos, features y entrenamiento.
 
 ## Cómo correr
 ### Opción 1 — pip
